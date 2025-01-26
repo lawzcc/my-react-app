@@ -1,6 +1,6 @@
-# KinderCare Management System
+# KinderMMU Management System
 
-This project is a web application for managing the KinderCare system, providing functionalities for user login, student management, assessments, and communications.
+This project is a web application for managing the student system, providing functionalities for user login, student management, assessments, and communications.
 
 ## Features
 
